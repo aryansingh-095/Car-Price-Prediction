@@ -16,9 +16,7 @@ Scikit-learn: For building and evaluating the machine learning model.
 
 Matplotlib / Seaborn (Optional): For data visualization.
 
-
 Key Features - 
-
 
 Data Cleaning and Preprocessing: Handles categorical data and text-based features.
 
@@ -36,7 +34,7 @@ This project uses the car_data.csv dataset, which contains information about use
 
 File: car_data.csv
 
-Rows: 8000+
+Rows: 4000+
 
 Columns:
 
